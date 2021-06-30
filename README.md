@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Adilson-AG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, seja bem vindo !! 
+- 👀 Sou estudante de Análise e Desenvolvimento de Sistemas.
+- 🌱 Gosto de estudar sobre sistemas embarcados.
+-     Estou aprendendo C.
+
+
+
+https://www.linkedin.com/in/adilson-genari-ba348855
 
 <!---
 Adilson-AG/Adilson-AG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
