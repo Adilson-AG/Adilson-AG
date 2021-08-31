@@ -1,7 +1,8 @@
 - 👋 Olá, seja bem vindo !! 
 - 👀 Sou estudante de Análise e Desenvolvimento de Sistemas.
 - 🌱 Gosto de estudar sobre sistemas embarcados.
--     Estou aprendendo C.
+-    Tenho conhecimento em linguagem C.
+-    Estou aprendendo C#.
 
 
 
