@@ -1,8 +1,11 @@
 - 👋 Olá, seja bem vindo !! 
-- 👀 Sou estudante de Análise e Desenvolvimento de Sistemas.
+- 👀 Sou estudante de Análise e Desenvolvimento de Sistemas, estou em transição de carreira.
 - 🌱 Gosto de estudar sobre sistemas embarcados.
 -    Tenho conhecimento em linguagem C.
--    Estou aprendendo C#                                                 
+-    A linguagem atual que estou estudando é C#.
+-    
+
+                                                
 -    
 https://www.linkedin.com/in/adilson-genari-ba348855
 
