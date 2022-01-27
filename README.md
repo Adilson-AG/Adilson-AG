@@ -2,10 +2,8 @@
 - 👀 Sou estudante de Análise e Desenvolvimento de Sistemas.
 - 🌱 Gosto de estudar sobre sistemas embarcados.
 -    Tenho conhecimento em linguagem C.
--    Estou aprendendo C#.
-
-
-
+-    Estou aprendendo C#                                                 
+-    
 https://www.linkedin.com/in/adilson-genari-ba348855
 
 <!---
