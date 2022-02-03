@@ -7,7 +7,7 @@
 
                                                 
 -    
-https://www.linkedin.com/in/adilson-genari-ba348855
+www.linkedin.com/in/adilson-genari
 
 <!---
 Adilson-AG/Adilson-AG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
