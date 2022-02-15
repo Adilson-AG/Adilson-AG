@@ -24,7 +24,7 @@
 
   
      ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
-      <img align="left" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     </div>
   
   <div> 
