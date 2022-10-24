@@ -1,12 +1,12 @@
 ## -😎 Olá, seja bem vindo !! 
 - 👀 Sou estudante de Análise e Desenvolvimento de Sistemas, estou em transição de carreira.
-- Gosto de estudar sobre sistemas embarcados.
-- Já tive contato comas linguagens C,C# nos dois primeiros semestres da faculdade.
-- Atualmente estou estudando P.O.O com java.
+- Das muitas coisas que gosto de fazer minha favorita é fazer pequenos projetos com sistemas embarcados.
+- Já tive contato com as linguagens C,C#, JAVA na faculdade.
+- Atualmente estou usando C para aprender estrutura de dados, entrando nos conceitos de pilha, fila, lista, árvore.
   
 
                                                 
-- E-mail para contato: adilson.genari@hotmail.com  
+- <strong>E-mail para contato:  adilson.genari@hotmail.com</strong>  
 
 
   <div>
