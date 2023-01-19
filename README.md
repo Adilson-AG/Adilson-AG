@@ -2,7 +2,8 @@
 - 👀 Sou estudante de Análise e Desenvolvimento de Sistemas, estou em transição de carreira.
 - Das muitas coisas que gosto de fazer minha favorita é fazer pequenos projetos com sistemas embarcados.
 - Já tive contato com as linguagens C,C#, JAVA na faculdade.
-- Atualmente estou usando C para aprender estrutura de dados, entrando nos conceitos de pilha, fila, lista, árvore.
+- Em treinamento para me tornar full stack developer.
+- Desenvolvendo habilidades com react.
   
 
                                                 
