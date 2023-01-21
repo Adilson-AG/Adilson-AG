@@ -7,9 +7,7 @@
                                             
 - <strong>E-mail para contato:  adilson.genari@hotmail.com</strong>  
  
-   <div> 
-     ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
-    <div/>
+  
 
 <div>
     <a href="https://github.com/Adilson-AG">
@@ -19,6 +17,23 @@
 
  
   ##
+  
+  
+  
+  
+  
+         <div> 
+     ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
+    <div/>
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <div align="left"> 
     
   
