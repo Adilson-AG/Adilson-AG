@@ -17,7 +17,11 @@
  </div>
   
   ##
-  <div align="center"> 
+  
+  
+  
+  
+<div align="center"> 
   
      ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
       
