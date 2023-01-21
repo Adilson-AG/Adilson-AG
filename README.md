@@ -7,7 +7,7 @@
                                             
 - <strong>E-mail para contato:  adilson.genari@hotmail.com</strong>  
 
-
+<div>
 <div>
     <a href="https://github.com/adilson-ag">
     <img height="180em"align="left" src="https://github-readme-stats.vercel.app/api?username=adilson-ag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />       
@@ -24,7 +24,7 @@
       
     </div>
       
-  
+  </div>
    <div align="left"> 
     
   
