@@ -4,10 +4,7 @@
 - Já tive contato com as linguagens C,C#, JAVA na faculdade.
 - Desenvolvendo habilidades com react.
 - Em treinamento para me tornar full stack developer.
-
-  
-
-                                                
+                                            
 - <strong>E-mail para contato:  adilson.genari@hotmail.com</strong>  
 
 
