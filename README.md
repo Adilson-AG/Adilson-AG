@@ -7,7 +7,7 @@
                                             
 - <strong>E-mail para contato:  adilson.genari@hotmail.com</strong>  
 
-<div>
+
 <div>
     <a href="https://github.com/Adilson-AG">
     <img height="180em"align="left" src="https://github-readme-stats.vercel.app/api?username=adilson-ag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />       
@@ -17,10 +17,11 @@
  
   ##
   
-   <div> ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
+   <div> 
+     ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
     <div/>
       
-  </div>
+
   
   ##
   
