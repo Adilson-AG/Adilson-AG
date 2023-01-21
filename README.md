@@ -6,7 +6,10 @@
 - Em treinamento para me tornar full stack developer.
                                             
 - <strong>E-mail para contato:  adilson.genari@hotmail.com</strong>  
-
+ 
+   <div> 
+     ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
+    <div/>
 
 <div>
     <a href="https://github.com/Adilson-AG">
@@ -16,15 +19,14 @@
 
  
   ##
+  <div align="left"> 
+    
   
-   <div> 
-     ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
-    <div/>
-      
-
-  
-  ##
-  
+  <a href="https://www.linkedin.com/in/adilson-genari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <img  alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    
+ 
+</div>
    
 
 
