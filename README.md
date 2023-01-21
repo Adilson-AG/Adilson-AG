@@ -16,8 +16,12 @@
  
   ##
   
+   <div align="center"> 
+
   
-     ![Snake animation](https://https://github.com/adilson-ag/adilson-ag/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/adilson-ag/adilson-AG/blob/output/github-contribution-grid-snake.svg)
+      
+    </div>
       
   
    <div align="left"> 
