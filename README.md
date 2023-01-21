@@ -19,7 +19,7 @@
   ##
   
   <div align="center">  
-     ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
     </div>
   
    <div align="left"> 
