@@ -10,16 +10,16 @@
 
  <div>
     <a href="https://github.com/adilson-ag">
-    <img height="180em"align="left" src="https://github-readme-stats.vercel.app/api?username=adilson-ag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>       
-      <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilson-ag&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em"align="left" src="https://github-readme-stats.vercel.app/api?username=adilson-ag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />       
+      <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilson-ag&layout=compact&langs_count=7&theme=dracula" />
       
   </div>
     
+  
   ##
   
-  <div align="center"> 
-     ![Snake animation](https://github.com/adilson-ag/adilson-ag/blob/output/github-contribution-grid-snake.svg)
-      
+  <div align="center">  
+     ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)
     </div>
   
    <div align="left"> 
