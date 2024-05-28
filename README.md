@@ -1,9 +1,33 @@
-## -😎 Olá, seja bem vindo !!!
-- 👀 Sou estudante de Análise e Desenvolvimento de Sistemas.
-- Das muitas coisas que gosto de fazer minha favorita é fazer pequenos projetos com sistemas embarcados.
-- Desenvolvendo atualmente com react.js, node, Javascript e c#.
+👋 **Olá!** Eu sou um desenvolvedor apaixonado por IoT, automação e soluções baseadas em ESP32. Aqui está um pouco sobre mim:
+
+🔧 **Habilidades Técnicas:**
+- Programação em C#, C++
+- Desenvolvimento de projetos com ESP32, incluindo configurações de WiFi, BLE, e uso de FreeRTOS
+- Criação e gerenciamento de servidores web AsyncWebServer para ESP32
+- Manipulação de arquivos SPIFFS no ESP32
+- Integração com Firebase para comunicação entre dispositivos e aplicativos móveis
+- Desenvolvimento de aplicativos para visualização e gerenciamento de dados de sensores
+- Desenvolvimento de soluções de monitoramento e registro de dados em tempo real
+- Conhecimento em React e JavaScript, com experiência em manutenção e melhorias de código nesses frameworks
+
+💡 **Projetos Recentes:**
+- **Projeto de Monitoramento com ESP32:** Um sistema completo para monitorar e registrar dados de sensores em tempo real, utilizando um servidor web AsyncWebServer e armazenamento em SPIFFS.
+- **Configuração de Redes via BLE:** Um projeto que permite a configuração de dispositivos ESP32 através de conectividade BLE, utilizando o NRF Connect.
+
+📊 **Gestão de Dados:**
+- Armazenamento de dados de sensores em arquivos Excel para visualização e análise
+
+🌐 **Conectividade e Automação:**
+- Automação de processos utilizando sensores e dispositivos conectados
+- Implementação de soluções seguras para configuração e monitoramento de dispositivos IoT
+
+📚 **Interesses:**
+- Desenvolvimento de novas soluções IoT
+- Exploração de novas tecnologias e suas aplicações práticas
+- Contribuição para projetos open-source
+
                                             
-- <strong>E-mail para contato:  adilson.genari@hotmail.com</strong>  
+- <strong>E-mail para contato:  adilson.genari@hotmail.com</strong>   <br> <br> <br>
  
   
 
