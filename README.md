@@ -33,7 +33,7 @@
 
 <div>
     <a href="https://github.com/Adilson-AG">
-    <img height="180em"align="left" src="https://github-readme-stats.vercel.app/api?username=adilson-ag&show_icons=true&rank_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=true" />     
+    <img height="180em"align="left" src="https://github-readme-stats.vercel.app/api?username=adilson-ag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=true" />     
       <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilson-ag&layout=compact&langs_count=7&theme=dracula" />  
  </div>
   
