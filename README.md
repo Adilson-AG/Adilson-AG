@@ -39,7 +39,7 @@
   
   ##
     
-  ![Snake animation](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake.svg)</br>
+ ![Snake animation dark](https://github.com/Adilson-AG/Adilson-AG/blob/output/github-contribution-grid-snake-dark.svg)</br>
    <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img  alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
