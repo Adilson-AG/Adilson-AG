@@ -180,15 +180,11 @@ Tenho interesse constante em aprofundar conhecimentos sobre:
 
 ---
 
-# 📊 Estatísticas
+## 📊 GitHub Metrics
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Adilson-AG&show_icons=true&theme=tokyonight&rank_icon=github"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilson-AG&layout=compact&theme=tokyonight"/>
+<img src="./github-metrics.svg"/>
 
 </p>
 
